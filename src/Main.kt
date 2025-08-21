@@ -17,6 +17,7 @@ fun main() {
     val producto03 = mapOf("nombre" to "Las recetas de Manolo", "precio" to 350.50, "categoria" to "Libros")
     val inventario = listOf(producto01, producto02, producto03)
 
+    println(inventario)
 
 
 }
